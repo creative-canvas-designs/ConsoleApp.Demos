@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp.VariablesDemo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

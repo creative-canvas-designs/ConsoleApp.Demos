@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp.OutputDemo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
