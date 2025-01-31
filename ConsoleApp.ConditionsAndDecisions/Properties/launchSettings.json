@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp.ConditionsAndDecisions": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

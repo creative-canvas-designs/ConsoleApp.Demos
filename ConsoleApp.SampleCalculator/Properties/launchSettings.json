@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp.SampleCalculator": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
